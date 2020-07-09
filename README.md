@@ -1,7 +1,6 @@
 ## Hi everyone! 👋
 ### My name is Ridza Adhandra
 ### Welcome to my github profile!
----
 
 * I'm a [Hacktiv8](https://hacktiv8.com/) alumni 🎓
 
