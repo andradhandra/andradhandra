@@ -4,7 +4,7 @@
 
 * I'm a [Hacktiv8](https://hacktiv8.com/) alumni 🎓
 
-* I'm working as software engineer at sprout.co.id 
+* I'm working as software engineer at [sprout.co.id](https://sprout.co.id/) 
 
 * Currently learning Flutter and mobile development 📲
 
