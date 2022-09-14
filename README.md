@@ -4,9 +4,9 @@
 
 * I'm a [Hacktiv8](https://hacktiv8.com/) alumni 🎓
 
-* I'm working as software engineer at [sprout.co.id](https://sprout.co.id/) 
+* I'm working as software engineer at [PT Sinar Mas Multiartha Tbk](https://smma.co.id/) 
 
-* Currently learning Flutter and mobile development 📲
+* Currently focusing on Flutter and mobile development 📲
 
 * Please reach me at [twitter](https://twitter.com/andradhandra) or [instagram](https://www.instagram.com/andradhandra/) !
 
