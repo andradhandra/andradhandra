@@ -4,9 +4,9 @@
 
 * I'm a [Hacktiv8](https://hacktiv8.com/) alumni 🎓
 
-* I'm working as software engineer at [PT Sinar Mas Multiartha Tbk](https://smma.co.id/) 
-
-* Currently focusing on Flutter and mobile development 📲
+* I like developing with Flutter and mobile development 📲
+  
+* Currently learning anything about machine learning
 
 * Please reach me at [twitter](https://twitter.com/andradhandra) or [instagram](https://www.instagram.com/andradhandra/) !
 
