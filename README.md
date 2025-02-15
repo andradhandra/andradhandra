@@ -6,7 +6,7 @@
 
 * I like developing with Flutter and mobile development 📲
   
-* Currently learning anything about machine learning
+* Currently learning anything about machine learning and AI
 
 * Please reach me at [twitter](https://twitter.com/andradhandra) or [instagram](https://www.instagram.com/andradhandra/) !
 
